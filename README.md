@@ -1,4 +1,6 @@
-# lccn-project-files
+# LCCN project files
+
+Project: MPEG-DASH livestream in an unstable environment
 
 This repository only holds the submitted files of the project that i did in 2019.
 The project was taken in the "Lab of Communication & Networking" of the Computer Science faculty in the technion.
