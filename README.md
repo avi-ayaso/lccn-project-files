@@ -1,4 +1,4 @@
-# LCCN project files
+# LCCN project
 
 Project: MPEG-DASH livestream in an unstable environment
 
